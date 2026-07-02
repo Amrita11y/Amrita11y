@@ -78,11 +78,7 @@ I enjoy designing modern, responsive web experiences and continuously expanding 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amrita11y&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrita11y&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amrita11y&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
